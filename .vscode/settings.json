@@ -1,0 +1,7 @@
+{
+  "eslint.options": {
+    "configFile": "\\ABSOLUTE\\PATH\\TO\\YOUR\\PROJECT\\VUE_PROJECT\\babel.config.js"
+  },
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "vetur.validation.template": false
+}
